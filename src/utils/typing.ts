@@ -9,3 +9,11 @@ export interface ListCardData {
   title: string
   taskRemain: number
 }
+
+export interface ListItemData {
+  isFinish: boolean
+  title: string
+  listName: string
+  tag?: string
+  isFlag: boolean
+}

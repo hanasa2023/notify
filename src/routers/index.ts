@@ -10,7 +10,12 @@ declare module 'vue-router' {
 
 const routes = [
   { path: '/', component: HomeScreen, meta: { transition: 'slide-right' } },
-  { path: '/list', component: ListScreen, meta: { transition: 'slide-left' } },
+  {
+    path: '/list/:listName',
+    component: ListScreen,
+    props: true,
+    meta: { transition: 'slide-left' },
+  },
 ]
 
 export const router = createRouter({

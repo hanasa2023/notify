@@ -1,38 +1,58 @@
 <template>
+  <v-app-bar title="Notify" color="blue">
+    <template #prepend>
+      <v-btn icon="mdi-chevron-left" @click="router.back()"></v-btn>
+    </template>
+  </v-app-bar>
   <v-container>
     <v-row>
       <v-col>
-        <h3>我的列表</h3>
-        <v-card calss="mx-auto">
-          <v-list>
-            <ListCard
-              v-for="(data, index) in listData"
-              :title="data.title"
-              :icon-color="data.iconColor || 'blue'"
-              :taskRemain="data.taskRemain"
-              :key="index"
-              :value="index"
-            />
-          </v-list>
-        </v-card>
+        <h1>{{ listName }}</h1>
+        <ListItem
+          v-for="(data, index) in listItems"
+          :key="index"
+          :is-finish="data.isFinish"
+          :title="data.title"
+          :list-name="data.listName"
+          :tag="data.tag"
+          :is-flag="data.isFlag"
+        />
       </v-col>
     </v-row>
   </v-container>
 </template>
 
 <script setup lang="ts">
-import ListCard from '../components/ListCard.vue'
-import { ListCardData } from '../utils/typing'
+import { useRouter } from 'vue-router'
+import ListItem from '../components/ListItem.vue'
+import { ListItemData } from '../utils/typing'
 
-const listData: ListCardData[] = [
+const router = useRouter()
+
+defineProps<{
+  listName: string
+}>()
+
+const listItems: ListItemData[] = [
   {
-    title: '提醒',
-    taskRemain: 0,
-    iconColor: 'red',
+    isFinish: false,
+    title: 'kmp',
+    listName: '暑假计划',
+    tag: '#cs',
+    isFlag: true,
   },
   {
-    title: '我的计划',
-    taskRemain: 3,
+    isFinish: false,
+    title: 'kmp',
+    listName: '暑假计划',
+    isFlag: true,
+  },
+  {
+    isFinish: true,
+    title: 'kmp',
+    listName: '暑假计划',
+    tag: '#cs',
+    isFlag: false,
   },
 ]
 </script>

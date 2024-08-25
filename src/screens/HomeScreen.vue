@@ -1,4 +1,9 @@
 <template>
+  <v-app-bar title="Notify" color="blue">
+    <template #prepend>
+      <v-app-bar-nav-icon></v-app-bar-nav-icon>
+    </template>
+  </v-app-bar>
   <v-container>
     <v-row>
       <v-col
@@ -13,6 +18,24 @@
         />
       </v-col>
     </v-row>
+    <v-row>
+      <v-col>
+        <h3>我的列表</h3>
+        <v-card calss="mx-auto">
+          <v-list>
+            <ListCard
+              v-for="(data, index) in listData"
+              :title="data.title"
+              :icon-color="data.iconColor || 'blue'"
+              :taskRemain="data.taskRemain"
+              :key="index"
+              :value="index"
+              @click="router.push(`/list/${data.title}`)"
+            />
+          </v-list>
+        </v-card>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 
@@ -21,8 +44,13 @@ import { useDisplay } from 'vuetify'
 import DefaultCard from '../components/DefaultCard.vue'
 import { DefaultCardProps } from '../utils/typing'
 import { computed } from 'vue'
+import ListCard from '../components/ListCard.vue'
+import { ListCardData } from '../utils/typing'
+import { useRouter } from 'vue-router'
 
 const { name } = useDisplay()
+
+const router = useRouter()
 
 const reactiveCols = computed<number>(() => {
   switch (name.value) {
@@ -66,6 +94,18 @@ const defaultCardsData: DefaultCardProps[] = [
     icon: 'mdi-check',
     title: '完成',
     taskRemain: 0,
+  },
+]
+
+const listData: ListCardData[] = [
+  {
+    title: '提醒',
+    taskRemain: 0,
+    iconColor: 'red',
+  },
+  {
+    title: '我的计划',
+    taskRemain: 3,
   },
 ]
 </script>
