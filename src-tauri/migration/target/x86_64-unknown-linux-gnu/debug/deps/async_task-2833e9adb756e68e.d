@@ -1,0 +1,11 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/libasync_task-2833e9adb756e68e.rmeta: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/header.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/raw.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/runnable.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/state.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/task.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/utils.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/async_task-2833e9adb756e68e.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/header.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/raw.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/runnable.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/state.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/task.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/utils.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/header.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/raw.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/runnable.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/state.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/task.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-task-4.7.1/src/utils.rs:

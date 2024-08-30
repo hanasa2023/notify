@@ -1,0 +1,11 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/libtinyvec-bb626640cd7bfdbd.rmeta: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/array.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/array/generated_impl.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/arrayvec.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/arrayvec_drain.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/slicevec.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/tinyvec.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/tinyvec-bb626640cd7bfdbd.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/array.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/array/generated_impl.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/arrayvec.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/arrayvec_drain.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/slicevec.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/tinyvec.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/array.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/array/generated_impl.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/arrayvec.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/arrayvec_drain.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/slicevec.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tinyvec-1.8.0/src/tinyvec.rs:

@@ -1,0 +1,12 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/debug/deps/libasync_trait-0fcf4fd0bdf748f7.so: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/args.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/bound.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/expand.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/lifetime.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/parse.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/receiver.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/verbatim.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/debug/deps/async_trait-0fcf4fd0bdf748f7.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/args.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/bound.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/expand.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/lifetime.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/parse.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/receiver.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/verbatim.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/args.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/bound.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/expand.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/lifetime.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/parse.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/receiver.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.81/src/verbatim.rs:

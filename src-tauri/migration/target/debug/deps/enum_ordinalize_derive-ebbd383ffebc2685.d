@@ -1,0 +1,9 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/debug/deps/libenum_ordinalize_derive-ebbd383ffebc2685.so: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/int128.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/int_wrapper.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/panic.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/variant_type.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/debug/deps/enum_ordinalize_derive-ebbd383ffebc2685.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/int128.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/int_wrapper.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/panic.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/variant_type.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/int128.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/int_wrapper.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/panic.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/enum-ordinalize-derive-4.3.1/src/variant_type.rs:

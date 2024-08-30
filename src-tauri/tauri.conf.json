@@ -1,5 +1,5 @@
 {
-  "productName": "notice",
+  "productName": "notify",
   "version": "0.1.0",
   "identifier": "tech.hanasaki.com",
   "build": {
@@ -11,7 +11,7 @@
   "app": {
     "windows": [
       {
-        "title": "notice",
+        "title": "notify",
         "width": 800,
         "height": 600
       }
@@ -29,6 +29,7 @@
       "icons/128x128@2x.png",
       "icons/icon.icns",
       "icons/icon.ico"
-    ]
+    ],
+    "resources": ["./app"]
   }
 }

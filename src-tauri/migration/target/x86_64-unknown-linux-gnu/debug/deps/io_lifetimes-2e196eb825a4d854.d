@@ -1,0 +1,10 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/libio_lifetimes-2e196eb825a4d854.rmeta: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/portability.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/traits.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/example_ffi.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/raw.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/views.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/io_lifetimes-2e196eb825a4d854.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/portability.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/traits.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/example_ffi.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/raw.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/views.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/portability.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/traits.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/example_ffi.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/raw.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/io-lifetimes-1.0.11/src/views.rs:

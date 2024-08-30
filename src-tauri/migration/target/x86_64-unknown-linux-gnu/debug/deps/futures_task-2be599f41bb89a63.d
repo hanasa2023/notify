@@ -1,0 +1,11 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/libfutures_task-2be599f41bb89a63.rmeta: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/futures_task-2be599f41bb89a63.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs:

@@ -1,0 +1,10 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/libfutures_channel-9d07fd53a044e50c.rmeta: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lock.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/mod.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/queue.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/sink_impl.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/oneshot.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/futures_channel-9d07fd53a044e50c.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lock.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/mod.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/queue.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/sink_impl.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/oneshot.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lock.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/mod.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/queue.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/sink_impl.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/oneshot.rs:

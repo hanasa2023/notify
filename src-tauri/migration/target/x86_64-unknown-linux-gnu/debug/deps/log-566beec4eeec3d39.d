@@ -1,0 +1,13 @@
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/liblog-566beec4eeec3d39.rmeta: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/macros.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/serde.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/mod.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/error.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/key.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/source.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/value.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/__private_api.rs
+
+/home/hanasaki/RustProjects/notify/src-tauri/migration/target/x86_64-unknown-linux-gnu/debug/deps/log-566beec4eeec3d39.d: /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/lib.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/macros.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/serde.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/mod.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/error.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/key.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/source.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/value.rs /home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/__private_api.rs
+
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/lib.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/macros.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/serde.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/mod.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/error.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/key.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/source.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/kv/value.rs:
+/home/hanasaki/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/log-0.4.22/src/__private_api.rs:
